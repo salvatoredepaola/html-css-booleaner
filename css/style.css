@@ -16,8 +16,8 @@ header {
 
 }
 main {
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
 }
 
 h1 {
@@ -52,7 +52,7 @@ ul {
 }
 
 table {
-    max-width: 70%;
+
     border: none;
     border-spacing: 0px;
 }
